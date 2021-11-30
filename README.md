@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Gichuhi-Fredrick/Blogr-Landing-Page)
+- Live Site URL: (https://your-live-site-url.com)
 
 ## My process
 
@@ -92,5 +92,5 @@ I had not thought of starting with mobile first then desktop, seeing that I had 
 
 ```
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Twitter - [@stormFred](https://www.twitter.com/stormFred)
