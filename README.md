@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Gichuhi-Fredrick/Blogr-Landing-Page)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://blogger-landing-page.netlify.app/)
 
 ## My process
 
